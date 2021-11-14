@@ -13,7 +13,7 @@ export default function Planes() {
     <p>Hello World</p>
         </Grid>
         <Grid item xs={4}>
-        <p>Hello World</p>
+        <p>Hello World 1</p>
         </Grid>
         <Grid item xs={4}>
         <p>Hello World</p>
